@@ -1,18 +1,7 @@
 {
-	"folders": [
-		{
-			"path": "../.."
-		}
-	],
-	"settings": {
-		"jest.disabledWorkspaceFolders": [
-			"WorldCup-tickets",
-			"WorldCup-tickets",
-			"Reservation",
-			"Security",
-			"Shop Consumer",
-			"frontend",
-			"Analytics"
-		]
-	}
+    "folders": [
+        {
+            "path": "../.."
+        }
+    ]
 }

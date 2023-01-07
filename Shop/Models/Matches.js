@@ -15,7 +15,7 @@ const matchSchema = new Schema({
     max: 7
   },
   dateUtc: {
-    type: String,
+    type: Date,
     required: true
   },
   location: {
